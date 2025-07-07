@@ -7,6 +7,14 @@ Todo tiene un inicio simple y este es el primer programa que haremos, espero un 
 Recuerada que la paciencia es una gran virtud.
 Bienvenido.
 
+## Conexiones:  
+![image](https://github.com/user-attachments/assets/73c8bdd7-edde-4cc7-b759-956c34856b01)  
+
+* Conectar el pin 13 al anodo del led con una resistencia de 220Ohm.  
+* Conectar el catodo del led a GND de la placa Arduino UNO.  
+## Código  
+Abrir arduino IDE y conectar laa placa Arduino UNO a la computadora, cargar el siguiente código.
+
 
 ```cpp
 /*
